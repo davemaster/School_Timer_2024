@@ -1,4 +1,6 @@
 # School_Timer_2024
+My relatives has a school, of little children, and sometimes the personal in charge of ringing the bell are very busy with some issues which comes with School Managing job; so, the schedules some times are not accomplished. So, I decided to build many years ago, a Timer capable to ring a bell, alarm, whatever attached to its relay at determinate times of day. All this first prototype, only using test pcb stripped boards, not in a finished PCB BOARD with professional quality. THIS YEAR, is the year.
+
 Design based on PIC 16F877A, with ring the Bell in schedules programmed automatically, no need to human intervention.
 
 ![imagen](https://github.com/davemaster/School_Timer_2024/assets/1075807/45677b37-9630-4954-b43c-4b2f16a6d82c)
